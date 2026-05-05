@@ -1,0 +1,1 @@
+Work in progress. likely to change the LED appearance  to match the red clip indicator... need to likely smooth up the numbers  int/float a little still but met objectives with a simple amp/output plugin.
